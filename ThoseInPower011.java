@@ -5,7 +5,7 @@
  *******************************************************************************/
 import java.util.Scanner;
 
-public class ThIoseInPower011
+public class ThoseInPower011
 {
     public static void main(String[] args) {
         int materials = 15; //amount of materials your kingdom has
